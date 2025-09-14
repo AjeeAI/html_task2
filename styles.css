@@ -30,7 +30,7 @@
 
 .header-mid{
     display: flex;
-    gap: 10px;
+    gap: 20px;
     align-items: center;
     color: black;
     font-weight: bold;
@@ -61,7 +61,7 @@
 }
 
 
-.main{
+.main_actual{
     background-image:url('./images/drug_image3.png');
      background-repeat: no-repeat;
     padding: 20px;
@@ -72,6 +72,7 @@
     flex-direction: column;
     background-position: center;
     background-size: cover;
+    background-blend-mode: darken;
      /* aspect-ratio: 16 / 9; */
 }
 
@@ -99,6 +100,70 @@
     padding-right: 100px;
     border-radius: 10px;
     opacity: 0.8;
+    
+}
+.main button{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    align-self: center;
+
+}
+
+.awareness{
+    background-color: rgba(255, 255, 255, 0.945);
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.awareness h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 20px;
+    
+}
+
+.awareness p{
+    font-size: 20px;
+    color: black;
+    max-width: 800px;
+    line-height: 1.6;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.awareness li{
+    list-style-type:square;
+    font-size: 20px;
+    color: black;
+    max-width: 800px;
+    line-height: 1.6;
+    text-align: left;
+    opacity: 0.8;
+    margin-bottom: 10px;
+    padding-left: 40px;
+}
+
+.leftp{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
     
 }
  /* ================== Shola's part ============= */
