@@ -269,3 +269,109 @@
 }
 
  /* ================== Shola's part ============= */
+
+
+ .healthy {
+    background-color: white;
+    padding-bottom: 64px;
+    padding-top: 64px;
+}
+.h_head {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+}
+.h_bodytext {
+    text-align: center;
+    font-size: 20px;
+}
+.h_cards {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    padding-left: 64px;
+    padding-right: 64px;
+}
+.h_card1 {
+    padding-top: 36px;
+    width: 20%;
+}
+.h_cardhead {
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: blue;
+}
+.sec4 {
+    background-image: url('images/Image_fx\ \(6\).jpg');
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-style: italic;
+}
+.testimonial {
+    background-color: white;
+    padding-top: 64px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 64px;
+}
+.t_text {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.t_bodytext {
+    text-align: center;
+    padding-top: 24px;
+}
+.j_bodytext {
+    text-align: center;
+    font-size: 20px;
+}
+.j_movement {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding-top: 36px;
+}
+.m_button1 {
+    padding: 18px 15%;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.m_button1:hover{
+    background-color: rgb(41, 66, 151);
+}
+.m_button2 {
+    padding: 18px 15%;
+    background-color: rgb(171, 189, 197);
+    color: black;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.m_button2:hover{
+    background-color: rgb(113, 142, 155);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
