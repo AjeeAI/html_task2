@@ -1,17 +1,14 @@
 # Drug Abuse Campaign Webpage
-A simple, awareness-focused webpage designed to educate people on the dangers of drug abuse and encourage positive lifestyle choices. This project was built as part of a campaign to promote a drug-free society by sharing helpful information, motivational content, and resources for individuals seeking support.
+A simple, awareness-focused webpage designed to educate people on the dangers of drug abuse and encourage positive lifestyle choices.
 ---
 ## :star2: Features
 - **Awareness Messaging:** Strong visuals and text to encourage viewers to say no to drugs.
 - **Educational Content:** Key facts about drug abuse and its impact on mental and physical health.
 - **Quotes & Motivation:** Inspiring quotes from influential figures to encourage healthy living.
-- **Clean, Responsive Design:** Fully responsive layout for mobile, tablet, and desktop users.
-- **Call-to-Action (CTA):** Links to support organizations and campaigns.
 ---
-## :hammer_and_wrench: Tech Stack
+## Tech Stack:
 - **HTML5**
-- **CSS3**
-- **JavaScript (Optional if added)**
+- **CSS**
 ---
 
 ## Preview
