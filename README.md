@@ -14,20 +14,26 @@ A simple, awareness-focused webpage designed to educate people on the dangers of
 ## Preview
 Here’s a preview of the first page:
 
-![Foodie First Page](https://github.com/user-attachments/assets/e4050603-f54e-40c3-9bed-d4b9640ae501)
+![Foodie First Page](https://github.com/user-attachments/assets/3f9bcb79-6b8f-4883-8819-22873644079a)
 
 
 Here's a preview of the second page:
 
-![Foodie Second Page](https://github.com/user-attachments/assets/995b441f-4dd7-4207-b632-266d2413c673)
+![Foodie Second Page](https://github.com/user-attachments/assets/396843f0-e0bb-4828-b85d-660b5714cf25)
 
 
 Here's a preview of the third page:
 
-![Foodie Third Page](https://github.com/user-attachments/assets/2c8919a6-6626-49ed-891f-c2dba8f05e90)
+![Foodie Third Page](https://github.com/user-attachments/assets/92cc5281-f278-4161-a49c-15e11ebc9c17)
+
+Here's a preview of the fourth page:
+
+![Foodie Third Page](https://github.com/user-attachments/assets/ebdc0d81-8059-4226-b524-91adbdbd48a3)
 
 
+Here's a preview of the fifth page:
 
+![Foodie Third Page](https://github.com/user-attachments/assets/d8e1234f-b276-4585-985f-0505aade90b8)
 
 
 
