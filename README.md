@@ -33,6 +33,13 @@ Here's a preview of the fourth page:
 
 Here's a preview of the fifth page:
 
+![Foodie Third Page](https://github.com/user-attachments/assets/51efe967-0c57-4fe3-9e12-a9bc439fec5b)
+
+
+
+
+Here's a preview of the sixth page:
+
 ![Foodie Third Page](https://github.com/user-attachments/assets/d8e1234f-b276-4585-985f-0505aade90b8)
 
 
